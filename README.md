@@ -1,4 +1,4 @@
-Bank Telemarketing Campaign - Kaggle Competition
+ <b>Bank Telemarketing Campaign - Kaggle Competition <\b>
 Project Overview
 This project involves predicting the success of a bank's telemarketing campaign based on customer data. Leveraging data preprocessing techniques, feature engineering, and advanced machine learning models, the project achieved competitive performance in a Kaggle competition.
 
